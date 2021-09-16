@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+vertu-moscow.su	TRUE	/	FALSE	1999999999	PHPSESSID	14af0e20062d4b8ed7d8f73e4fd018fc
+
